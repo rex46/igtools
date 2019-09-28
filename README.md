@@ -5,15 +5,15 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/ikiganteng/bot-igeh.git)
-	* Extract File bot-igeh and enter the folder
+	* Download File on Github (https://github.com/rex46/igtools.git)
+	* Extract File igtools and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the bot-igeh folder!!!)
 	* Then type: unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
 	* npm audit fix
 	* To View The Contents Of a folder in bash, type: "ls" (without "")
 	* Then select the tool you want to use!
-	* node filename
+	* node index
 <br/>
 
 ## For TERMUX ONLY:
@@ -21,14 +21,14 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/ikiganteng/bot-igeh.git
-	* cd bot-igeh
+	* git clone https://github.com/rex46/igtools.git
+	* cd igtools
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
 	* npm audit fix
 	* ls
 	* Then select the tool you want to use!
-	* node filename
+	* node index
 	
 <br/>
 
